@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+}
+
+/* Navbar */
+
+.navbar {
+  position: relative;
+  z-index: 1;
+}
+
+.navbar-brand {
+  float: left;
+  font-size: 19px;
+  line-height: 30px;
+  height: 111px;
+  max-width: 220px;
+  display: table;
+}
+
+.nav-link {
+  font-size: 20px;
+  margin-right: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-item {
+  color: white;
+}
+
+/* Jumbotron */
+.jumbotron {
+  background-image: linear-gradient(to top,rgba(245, 113, 196, 1), rgba(174, 109, 249, 1), rgba(9, 203, 217, 1)); 
+  height: 768px;
+  margin-top: -150px;
+  position: relative;
+  margin-bottom: auto;
+}
+
+.display-4 {
+  position: relative;
+  font-size: 65px;
+  margin-top: 226px;
+  text-align: left;
+  font-family: 'Poppins';
+  z-index: 1;
+  color: white;
+}
+
+.lead {
+  color: white;
+  position: absolute;
+  font-size: 22px;
+  font-family: 'Poppins';
+  margin-top: -160px;
+  text-align: left;
+  margin-left: 710px;
+  z-index: 1;
+}
+
+.bg {
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  margin-top: -320px;
+  margin-left: 245px;
+}
+
+.free {
+  color: #F7FF00;
+  font-family: 'Poppins', sans-serif;
+  font-size: 44px;
+  margin-top: -85px;
+  text-align: left;
+  margin-left: 710px;
+  position: absolute;
+  z-index: 1;
+}
+
+.order {
+  color: white;
+  font-family: 'Poppins';
+  font-size: 15px;
+  margin-top: -35px;
+  text-align: left;
+  margin-left: 715px;
+  z-index: 1;
+  position: absolute;
+}
+
+/* Tombol Shop Now */
+.btn {
+  color: #EF2E76;
+  background-color: #F7FF00;
+  height: 36;
+  width: 133;
+  border-radius: 30px;
+  font-family: 'Poppins';
+  margin-left: 900px;
+  z-index: 1;
+  position: absolute;
+}
+
+.bg-free {
+  background-color: #EF2E76;
+  border-radius: 30px;
+  height: 97px;
+  width: 400px;
+  text-align: right;
+  margin-top: -80px;
+  margin-left: 650px;
+  padding-bottom: 100px;
+  position: absolute;
+}
+
+/* Social Media */
+.ig {
+  font-size: 15px;
+  color: white;
+  margin-left: 20px;
+}
+
+.fb {
+  font-size: 15px;
+  font-family: 'Poppins' sans-serif;
+  color: white;
+  margin-top: -38px;
+  margin-left: 124px;
+}
+
+.fb-logo {
+  height: 15px;
+  width: 15px;
+  margin-top: -83px;
+  margin-left: 105px;
+}
+
+.ig-logo {
+  height: 15px;
+  width: 15px;
+  margin-top: -34px;
+  margin-left: -117px;
+  position: absolute;
+}
+
+.by {
+  font-size: 15px;
+  text-align: right;
+  color: white;
+  position: relative;
+  margin-top: -65px;
+  font-family: 'Poppins', Helvetica, sans-serif;
+}
